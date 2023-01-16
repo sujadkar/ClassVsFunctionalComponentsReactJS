@@ -6,7 +6,7 @@
 
 
 
-<h2>Side effects is Functional Components useEffect()</h2>
+<h2>For Side effects in Functional Components we do useEffect() i.e React Hooks which introduced in 16.8 version</h2>
 
 <h2>Class based componenets can't use React Hooks</h2>
 
